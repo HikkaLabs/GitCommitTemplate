@@ -30,11 +30,11 @@ Follow these steps:
 
 3. Run the following command to set the path to your commit message template.
     
-    - To setup `local` project: 
+    - To setup `locally`: 
     ```
     git config --local commit.template /path/to/git-commit-template.txt
     ``` 
-    This setup the template to access only within the current project
+    This setup the template to access only within the current project/location.
     
 
     - To setup `globally`: 
@@ -47,7 +47,7 @@ Follow these steps:
 
 ### Verifying the Configuration
 
-Run following command to verify that the `commit.template` configuration has been set correctly
+Run following command to verify that the `commit.template` configuration has been set correctly.
 
 ```
 git config --local --get-all commit.template
@@ -68,7 +68,7 @@ Git will automatically open your commit message template in your default text ed
 
 `FYI` : 
 - Lines stared with `#` will automatically ignored when you are saving the commit message.
-- for the command `git commit -m "message"` the template is not useful at all. 
+- for the command `git commit -m "message"`, the template is not useful at all. 
 
 
 ## Usage
@@ -98,13 +98,12 @@ Once you've filled in the template, commit your changes as usual.
 
 ## conclusion
 
-In conclusion, using this Git commit template can make your commit messages clearer and more consistent. Clear commit messages help you and your team understand changes easily and maintain a clean codebase. Feel free to use this template in your projects, and if you have any questions or suggestions, we're here to help!
+Using this Git commit template can make your commit messages clearer and more consistent. Clear commit messages help you and your team understand changes easily and maintain a clean codebase.
+Feel free to use this template in your projects.
 
 Designed & Developed by [HikkaLabs](HikkaLabs.com)
 
-Happy Coding... ❤️😁
+Happy Coding... ❤️🧑‍💻😁 
 
-# About Hikka Labs
+## About Hikka Labs
 Hikka Labs is dedicated to providing innovative solutions to enhance development workflows and streamline project management. Our mission is to empower developers and teams to achieve their goals efficiently and effectively.
-
-### Happy Coding ... ❤️🧑‍💻😁 
