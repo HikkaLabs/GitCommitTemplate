@@ -3,14 +3,14 @@
 # _______________________________________________
 # ################# 50 chars######################
 # Types: {Feat, Fix, Docs, Style, Refactor, Test, Chore}
-# New Line goes below to seprate summary and description ->
+# New Line goes below to separate summary and description ->
 
 # Description goes Below ->
 
 # ______________________________________________________________________
 # ################# Wrap at 72 chars####################################
-# 
-# 
+#
+#
 # Git Commit Template by HikkaLabs
 #-------------------FYI----------------------------------
 # 1. Separate subject from body with a blank line
@@ -31,5 +31,5 @@
 #--------------------------------------------------------
 
 # Watermark
-----------Designed & Developed by HikkaLabs----------
-Website: HikkaLabs.com | Email  : hello@hikkalabs.com 
+# ----------Designed & Developed by HikkaLabs----------
+# Website: HikkaLabs.com | Email  : hello@hikkalabs.com 
