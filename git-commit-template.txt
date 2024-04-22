@@ -23,11 +23,13 @@
 #-------------------Types--------------------------------
 #   [ ] Feat:     A new feature
 #   [ ] Fix:      A bug fix
-#   [ ] Docs:     Documentation changes
+#   [ ] Doc:     Documentation changes
 #   [ ] Style:    Code style changes (formatting, etc.)
 #   [ ] Refac:    Code refactoring
 #   [ ] Test:     Adding or updating tests
 #   [ ] Chore:    Maintenance tasks, build changes, etc.
+#   [ ] I:        Install, Setup Plugins or relevant.
+#   [ ] WIP:      Work In Progress
 #--------------------------------------------------------
 
 # Watermark

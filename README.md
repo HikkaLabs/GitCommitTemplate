@@ -89,12 +89,14 @@ Once you've filled in the template, commit your changes as usual.
 - Explain What and Why: Use the body of the commit message to explain what changes were made and why they were made, rather than how they were made.
 
 ### Types of Commits
-- `Feat`: Introduce a new feature or functionality.
-- `Fix`: Address a bug or issue.
-- `Docs`: Make changes to documentation.
-- `Style`: Update code style or formatting.
+- `Feat`:     Introduce a new feature or functionality.
+- `Fix`:      Address a bug or issue.
+- `Docs`:     Make changes to documentation.
+- `Style`:    Update code style or formatting.
 - `Refactor`: Refactor existing code without changing its external behavior.
-- `Test`: Add or update tests.
+- `Test`:     Add or update tests.
+- `I`:        Install, Setup Plugins or relevant.
+- `WIP`:      Work In Progress
 
 ## conclusion
 
