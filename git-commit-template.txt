@@ -23,7 +23,7 @@
 #-------------------Types--------------------------------
 #   [ ] Feat:     A new feature
 #   [ ] Fix:      A bug fix
-#   [ ] Doc:     Documentation changes
+#   [ ] Doc:      Documentation changes
 #   [ ] Style:    Code style changes (formatting, etc.)
 #   [ ] Refac:    Code refactoring
 #   [ ] Test:     Adding or updating tests
