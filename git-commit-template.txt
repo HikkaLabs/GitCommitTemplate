@@ -1,5 +1,5 @@
 # Summary goes Below -> [Type] : {Summary}
-[] :
+[] 
 # _______________________________________________
 # ################# 50 chars######################
 # Types: {Feat, Fix, Docs, Style, Refactor, Test, Chore}

@@ -91,7 +91,7 @@ Once you've filled in the template, commit your changes as usual.
 ### Types of Commits
 - `Feat`:     Introduce a new feature or functionality.
 - `Fix`:      Address a bug or issue.
-- `Docs`:     Make changes to documentation.
+- `Doc`:     Make changes to documentation.
 - `Style`:    Update code style or formatting.
 - `Refactor`: Refactor existing code without changing its external behavior.
 - `Test`:     Add or update tests.
