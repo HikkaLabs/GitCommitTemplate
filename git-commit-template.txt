@@ -1,36 +1,12 @@
-# Summary goes Below -> [Type] : {Summary}
-[] 
-# _______________________________________________
-# ################# 50 chars######################
-# Types: {Feat, Fix, Docs, Style, Refactor, Test, Chore}
-# New Line goes below to separate summary and description ->
+# <Jira Issue Key> <commit message>_______
 
-# Description goes Below ->
+# New Line goes below to separate summary and description
 
-# ______________________________________________________________________
-# ################# Wrap at 72 chars####################################
-#
-#
-# Git Commit Template by HikkaLabs
-#-------------------FYI----------------------------------
-# 1. Separate subject from body with a blank line
-# 2. Limit the subject line to 50 characters
-# 3. Capitalize the subject line
-# 4. Do not end the subject line with a period
-# 5. Use the imperative mood in the subject line
-# 6. Wrap the body at 72 characters
-# 7. Use the body to explain what and why vs. how
-#-------------------Types--------------------------------
-#   [ ] Feat:     A new feature
-#   [ ] Fix:      A bug fix
-#   [ ] Doc:      Documentation changes
-#   [ ] Style:    Code style changes (formatting, etc.)
-#   [ ] Refac:    Code refactoring
-#   [ ] Test:     Adding or updating tests
-#   [ ] Chore:    Maintenance tasks, build changes, etc.
-#   [ ] I:        Install, Setup Plugins or relevant.
-#   [ ] WIP:      Work In Progress
-#--------------------------------------------------------
+# Body (optional): <detailed explanation of the change>_________________
+# Body:
+# <Footer: Any relevant issues or breaking changes>
+# Footer:
+
 
 # Watermark
 # ----------Designed & Developed by HikkaLabs----------
